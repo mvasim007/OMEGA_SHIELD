@@ -236,7 +236,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/mohammad123321123/OMEGA_SHIELD
+git clone https://github.com/mvasim007/OMEGA_SHIELD
 cd OMEGA_SHIELD
 chmod +x launch.sh
 ./launch.sh install
